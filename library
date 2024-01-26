@@ -1,0 +1,17 @@
+#include<stdio.h>
+#include<stdlib.h>
+#include<math.h>
+
+//Biblioteca com funções matemáticas que poderá ser utilizada por qualquer projeto em C que a referencie.
+
+#define PI 3,1415926535897932
+
+float Area_Circulo(){}
+float Area_Triangulo(){}
+float Area_Retangulo(){}
+float Area_Cilindro(){}
+
+float Func_exponencial(){}
+float Func_log(){}
+float Func_poli2(){}
+float Func_poli3(){}
