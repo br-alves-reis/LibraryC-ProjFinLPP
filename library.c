@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
-#include "library.h"
+ # define LIBRARY_H
+
 
 //Biblioteca com funções matemáticas que poderá ser utilizada por qualquer projeto em C que a referencie.
 
